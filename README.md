@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam kumar</h1>
-<h3 align="center">A passionate frontend developer...</h3>
+<h3 align="center">A passionate AI Engineer...</h3>
 
-- 🔭 I’m currently working on **Frontend Project**
+- 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **AI Things**
 
