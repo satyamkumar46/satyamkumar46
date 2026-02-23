@@ -1,31 +1,89 @@
-<h1 align="center">Hi 👋, I'm Satyam kumar</h1>
-<h3 align="center">A Mobile Developer...</h3>
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 
-- 🔭 I’m currently working on **Mobile Development**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking to collaborate on **AI Things**
-
-- 💬 Ask me about **C++,DSA,Frontend**
-
-- 📫 How to reach me **satyamkumar9714@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/satyam_243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyam_243" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-kumar-04213b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-04213b218" height="30" width="40" /></a>
-<a href="https://instagram.com/satyam_kumar_462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_kumar_462" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyamkumar9714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyamkumar9714" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satyamku15aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyamku15aj" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Native+Developer;Expo+%7C+TypeScript+Expert;Mobile+App+Architect;Building+Production-Ready+Apps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sattu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumar46&show_icons=true&locale=en&layout=compact" alt="satyamkumar46" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumar46&show_icons=true&locale=en" alt="satyamkumar46" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar46&" alt="satyamkumar46" /></p>
+📱 Mobile App Developer specialized in **React Native + Expo**  
+🔐 Secure Authentication (JWT + SecureStore)  
+🌐 REST API Integration & Clean Architecture  
+🎨 Responsive UI with NativeWind  
+⚡ Focused on production-level mobile apps  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,expo,nodejs,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📱 Featured Project – Course App
+
+### 🔥 Features
+- Login / Register System
+- Auto Login on App Restart
+- Secure Token Storage
+- Protected Navigation
+- API Integration `/api/v1/users`
+- Token Refresh Handling
+
+---
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Login+Screen" width="250"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="250"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Profile+Screen" width="250"/>
+</p>
+
+---
+
+## 📥 Download APK
+
+<p align="center">
+  <a href="https://your-apk-link-here.com">
+    <img src="https://img.shields.io/badge/Download-Android_APK-green?style=for-the-badge&logo=android"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://your-portfolio-link.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sattu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattu&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Master Advanced App Architecture
+- 🔄 Implement Scalable Token Refresh Systems
+- 📦 Publish Production Apps
+- 💼 Land a Mobile Developer Role
+
+---
+
+<p align="center">
+  ⭐ Code. Build. Improve. Repeat.
+</p>
