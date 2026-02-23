@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam kumar</h1>
 <h3 align="center">A passionate AI Engineer...</h3>
 
-- 🔭 I’m currently working on **Backend Project**
+- 🔭 I’m currently working on **Mobile Development**
 
 - 🌱 I’m currently learning **Backend Development**
 
