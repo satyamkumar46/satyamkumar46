@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,expo,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
@@ -40,31 +40,6 @@
 
 ---
 
-## 📸 App Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Login+Screen" width="250"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="250"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Profile+Screen" width="250"/>
-</p>
-
----
-
-## 📥 Download APK
-
-<p align="center">
-  <a href="https://your-apk-link-here.com">
-    <img src="https://img.shields.io/badge/Download-Android_APK-green?style=for-the-badge&logo=android"/>
-  </a>
-</p>
-
----
-
-## 🌐 Portfolio
-
-🔗 https://your-portfolio-link.com
-
----
 
 ## 📊 GitHub Stats
 
