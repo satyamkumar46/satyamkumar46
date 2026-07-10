@@ -23,15 +23,15 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nodejs,mongodb,supabase,git,github,vscode,cloudflare,firebase,postman,figma" />
 </p>
 
 ---
 
-## 📱 Featured Project – Course App
+## 📱 Featured Project – AI Meditation App
 
 ### 🔥 Features
-- Login / Register System
+- Login System
 - Auto Login on App Restart
 - Secure Token Storage
 - Protected Navigation
